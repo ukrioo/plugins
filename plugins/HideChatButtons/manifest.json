@@ -3,6 +3,10 @@
     "description": "Hides the gift and thread buttons in the chat input.",
     "authors": [
         {
+            "name": "pylix",
+            "id": "492949202121261067"
+        },
+        {
             "name": "ukrio",
             "id": "586962558435590154"
         }
